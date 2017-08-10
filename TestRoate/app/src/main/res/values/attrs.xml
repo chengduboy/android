@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 设置旋转菜单对应的第一张图片 -->
+    <declare-styleable name="RoundSpinView">
+        <attr name="menuStart" format="reference" />
+    </declare-styleable>
+</resources>
